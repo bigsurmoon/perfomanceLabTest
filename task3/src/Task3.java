@@ -78,8 +78,7 @@ public class Task3 {
     }
 }
 
-/*
-   - Для запуска программы убедитесь, что вы находитесь в папке /src
+/*   
    - Откройте терминал
    - Скомпилируйте программу командой: javac -cp ".;libraries/json-java.jar" src/Task3.java
    - Запустите программу командой: java -cp ".;libraries/json-java.jar;src" Task3 values.json tests.json report.json 
